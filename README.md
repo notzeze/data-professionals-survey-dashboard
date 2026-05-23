@@ -47,10 +47,10 @@ scores, and career entry challenges.
 ---
 
 ## 📊 Key Insights
-- Average salary across all data roles: [$53.90]
-- Salary satisfaction is the lowest happiness dimension at [4.27/10]
-- [59.05]% of respondents switched careers to enter data
-- Data Scientists earn the highest average salary at $[93.78]
+- Average salary across all data roles: $53.90
+- Salary satisfaction is the lowest happiness dimension at 4.27/10
+- 59.05% of respondents switched careers to enter data
+- Data Scientists earn the highest average salary at $93.78
 
 ---
 
